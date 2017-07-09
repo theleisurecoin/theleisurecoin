@@ -1,0 +1,9 @@
+Building TheLeisureCoin
+
+See doc/readme-qt.rst for instructions on building TheLeisureCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TheLeisureCoin.
+
+See doc/build-*.txt for instructions on building TheLeisureCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TheLeisureCoin.
